@@ -6,3 +6,10 @@ Run setup.sh
 Move ./org/teavm/jso into generated directory ./org/teavm
 
 Change build.gradle file to be the one in this repo
+
+
+Ignore dependency errors
+
+Compile with 
+./gradlew generateJavaScript
+./MakeOfflineDownload.sh
