@@ -7,6 +7,7 @@ Move ./org/teavm/jso into generated directory ./org/teavm
 
 Change build.gradle file to be the one in this repo
 
+Use the MakeOfflineDownload scripts in this repo, or manually redirect the js file path to point to javascript/js/classes.js
 
 Ignore dependency errors
 
